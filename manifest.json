@@ -1,51 +1,20 @@
-{
-  "name": "CRCAPITAL",
-  "short_name": "CRCAPITAL",
-  "theme_color": "#2a0044",
-  "background_color": "#2a0044",
-  "display": "standalone",
-  "start_url": "/",
-  "icons": [
-    {
-      "src": "images/icon-72x72.png",
-      "sizes": "72x72",
-      "type": "image/png"
-    },
-    {
-      "src": "images/icon-96x96.png",
-      "sizes": "96x96",
-      "type": "image/png"
-    },
-    {
-      "src": "images/icon-128x128.png",
-      "sizes": "128x128",
-      "type": "image/png"
-    },
-    {
-      "src": "images/icon-144x144.png",
-      "sizes": "144x144",
-      "type": "image/png"
-    },
-    {
-      "src": "images/icon-152x152.png",
-      "sizes": "152x152",
-      "type": "image/png"
-    },
-    {
-      "src": "images/icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "images/icon-384x384.png",
-      "sizes": "384x384",
-      "type": "image/png"
-    },
-    {
-      "src": "images/icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
-  "splash_pages": null
-}
+{"dir" : "ltr",
+    "lang" : "Portuguese",
+    "name" : "CR CAPITAL",
+    "scope" : "/",
+    "display" : "browser",
+    "start_url" : "https://crcapitalengenharia.com.br/",
+    "short_name" : "CR CAPITAL",
+    "theme_color" : "transparent",
+    "description" : "Antes de fechar qualquer negocio consulte nossa empresa. Temos uma equipe experiente pronta para atendê-lo com eficiência e pontualidade.<br />Aprimoramento tecnológico gestão responsável proporcionando entregas rigorosamente nos prazos, transparência, segurança e a grande responsabilidade de participar da vida de cada cliente são as bases que sustentam a filosofia de negócios do grupo CR Capital<br />Um Novo Conceito de Construções e Reformas Chegou Agora em Sua Cidade Profissionais Altamente Competentes para Poder Atendê-lo. <br />Especialistas em Revitalização de fachadas em prédios, escolas, praças etc<br />",
+    "orientation" : "any",
+    "background_color" : "transparent",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "generated" : "true",
+    "icons" : [
+        {
+            "src": "https://crcapitalengenharia.com.br/favicon.png?2019-2-8-1-637059606271210099",
+            "sizes": "16x12"
+        }
+    ]}
